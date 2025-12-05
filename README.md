@@ -1,2 +1,3 @@
-# FlairFix
-Ecommerce
+# E-COMMERCE WEBSITE 
+
+IT'S AN CODE BASED SITE
